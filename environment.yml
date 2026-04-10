@@ -5,4 +5,5 @@ channels:
   - defaults
 
 dependencies:
+  - python=3.13
   - mash >=2.3
