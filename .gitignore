@@ -1,0 +1,6 @@
+/test
+.venv
+.idea
+__pycache__/
+*.pyc
+dist/
