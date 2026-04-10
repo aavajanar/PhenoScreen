@@ -4,3 +4,5 @@
 __pycache__/
 *.pyc
 dist/
+poetry.lock
+poetry.toml
