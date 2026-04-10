@@ -6,7 +6,7 @@ authors = ["Janar Aava <janar.aava@ut.ee>"]
 readme = "README.md"
 
 [tool.poetry.scripts]
-phenoscreen = "phenoscreen.cli:main"
+phenoscreen = "phenoscreen.cli:app"
 
 [tool.poetry.dependencies]
 python = "^3.13"
